@@ -31,11 +31,11 @@
 
 Now, Code Blocks will automatically detect GCC Compiler.
 
-## Programming languages and tools used:-
+## Programming tools used:-
 1. Visual Studio Code (Version: 1.85.1)
 2. CodeBlocks (Version: 20.03)
 
-## Programming languages and tools used:-
+## Programming languages used:-
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
 <a href="https://www.codeblocks.org" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/codeblocks-icon-507x512-8brfhid2.png" alt="CodeBlocks" width="40" height="40"/> </a>
